@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/legion/static/css/main.f64e4492.css",
-    "main.js": "/legion/static/js/main.52405b22.js",
+    "main.js": "/legion/static/js/main.6907ebfd.js",
     "static/js/787.23707dab.chunk.js": "/legion/static/js/787.23707dab.chunk.js",
     "static/media/SEGA.woff": "/legion/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/legion/index.html",
     "main.f64e4492.css.map": "/legion/static/css/main.f64e4492.css.map",
-    "main.52405b22.js.map": "/legion/static/js/main.52405b22.js.map",
+    "main.6907ebfd.js.map": "/legion/static/js/main.6907ebfd.js.map",
     "787.23707dab.chunk.js.map": "/legion/static/js/787.23707dab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f64e4492.css",
-    "static/js/main.52405b22.js"
+    "static/js/main.6907ebfd.js"
   ]
 }
